@@ -1,0 +1,7124 @@
+{
+  "arrivals": [
+    {
+      "departure": {
+        "airport": {
+          "icao": "LWSK",
+          "iata": "SKP",
+          "name": "Skopje",
+          "countryCode": "mk",
+          "timeZone": "Europe/Skopje"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:05Z",
+          "local": "2026-03-13 13:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:01Z",
+          "local": "2026-03-13 13:01+01:00"
+        },
+        "checkInDesk": "13",
+        "gate": "203",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:25Z",
+          "local": "2026-03-13 15:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:55Z",
+          "local": "2026-03-13 14:55+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z42",
+        "baggageBelt": "C1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 4739",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-WAQ",
+        "modeS": "4D2425",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Wizz Air",
+        "iata": "W6",
+        "icao": "WZZ"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRP",
+          "iata": "PSA",
+          "name": "Pisa",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:10Z",
+          "local": "2026-03-13 13:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:34Z",
+          "local": "2026-03-13 13:34+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 12:34Z",
+          "local": "2026-03-13 13:34+01:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:05Z",
+          "local": "2026-03-13 15:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:58Z",
+          "local": "2026-03-13 14:58+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 9951",
+      "callSign": "RYR6RZ",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-EVP",
+        "modeS": "4CA9ED",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRF",
+          "iata": "FCO",
+          "name": "Rome",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 11:50Z",
+          "local": "2026-03-13 12:50+01:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:00Z",
+          "local": "2026-03-13 15:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:01Z",
+          "local": "2026-03-13 15:01+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z30",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 41",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-HGP",
+        "modeS": "4CAC54",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EKCH",
+          "iata": "CPH",
+          "name": "Copenhagen",
+          "countryCode": "dk",
+          "timeZone": "Europe/Copenhagen"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:10Z",
+          "local": "2026-03-13 15:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:15Z",
+          "local": "2026-03-13 15:15+01:00"
+        },
+        "terminal": "2",
+        "gate": "F7",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:15Z",
+          "local": "2026-03-13 15:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:01Z",
+          "local": "2026-03-13 15:01+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5262",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IDT",
+        "modeS": "4400DC",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 11:25Z",
+          "local": "2026-03-13 12:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 11:34Z",
+          "local": "2026-03-13 12:34+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 11:47Z",
+          "local": "2026-03-13 12:47+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "501-514",
+        "gate": "B35",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:10Z",
+          "local": "2026-03-13 15:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:04Z",
+          "local": "2026-03-13 15:04+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z34",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "VY 1884",
+      "callSign": "VLG94KR",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EC-MKN",
+        "modeS": "3451D4",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Vueling",
+        "iata": "VY",
+        "icao": "VLG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:45Z",
+          "local": "2026-03-13 13:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:59Z",
+          "local": "2026-03-13 13:59+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:00Z",
+          "local": "2026-03-13 14:00+01:00"
+        },
+        "terminal": "2F",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:30Z",
+          "local": "2026-03-13 15:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:14Z",
+          "local": "2026-03-13 15:14+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 14:14Z",
+          "local": "2026-03-13 15:14+01:00"
+        },
+        "terminal": "1",
+        "gate": "A20",
+        "baggageBelt": "A3",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AF 1234",
+      "callSign": "AFR33XP",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "F-HEPJ",
+        "modeS": "3991E9",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:15Z",
+          "local": "2026-03-13 14:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:15Z",
+          "local": "2026-03-13 14:15+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "759-782",
+        "gate": "A30",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:20Z",
+          "local": "2026-03-13 15:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:17Z",
+          "local": "2026-03-13 15:17+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 14:16Z",
+          "local": "2026-03-13 15:16+01:00"
+        },
+        "terminal": "1",
+        "gate": "B06",
+        "baggageBelt": "B3",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "DE 4075",
+      "callSign": "CFG1MP",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ASGE",
+        "modeS": "3C088D",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Condor",
+        "iata": "DE",
+        "icao": "CFG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWG",
+          "iata": "GRZ",
+          "name": "Graz",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:15Z",
+          "local": "2026-03-13 14:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:14Z",
+          "local": "2026-03-13 14:14+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:14Z",
+          "local": "2026-03-13 14:14+01:00"
+        },
+        "runway": "17C",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:35Z",
+          "local": "2026-03-13 15:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:18Z",
+          "local": "2026-03-13 15:18+01:00"
+        },
+        "terminal": "1",
+        "gate": "A06",
+        "baggageBelt": "A4",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8347",
+      "callSign": "EWG31V",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-EWE",
+        "modeS": "4D2417",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam",
+          "countryCode": "nl",
+          "timeZone": "Europe/Amsterdam"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:25Z",
+          "local": "2026-03-13 14:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:26Z",
+          "local": "2026-03-13 14:26+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "6-8",
+        "gate": "C8",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:40Z",
+          "local": "2026-03-13 15:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:27Z",
+          "local": "2026-03-13 15:27+01:00"
+        },
+        "terminal": "1",
+        "gate": "A10",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 1779",
+      "callSign": "KLM1779",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXU",
+        "modeS": "484442",
+        "model": "Boeing 737"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDS",
+          "iata": "STR",
+          "name": "Stuttgart",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:45Z",
+          "local": "2026-03-13 14:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:45Z",
+          "local": "2026-03-13 14:45+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "320-329",
+        "gate": "140",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:55Z",
+          "local": "2026-03-13 15:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:38Z",
+          "local": "2026-03-13 15:38+01:00"
+        },
+        "terminal": "1",
+        "gate": "B20",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 2004",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AGWK",
+        "modeS": "3C5EEB",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:15Z",
+          "local": "2026-03-13 14:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:10Z",
+          "local": "2026-03-13 14:10+01:00"
+        },
+        "checkInDesk": "2(5)",
+        "gate": "A64",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:55Z",
+          "local": "2026-03-13 15:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:39Z",
+          "local": "2026-03-13 15:39+01:00"
+        },
+        "terminal": "1",
+        "gate": "A34",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8765",
+      "callSign": "EWG7XR",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEWT",
+        "modeS": "3C56F4",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGPH",
+          "iata": "EDI",
+          "name": "Edinburgh",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:35Z",
+          "local": "2026-03-13 12:35+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:06Z",
+          "local": "2026-03-13 13:06+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:11Z",
+          "local": "2026-03-13 13:11+00:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 14:40Z",
+          "local": "2026-03-13 15:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:50Z",
+          "local": "2026-03-13 15:50+01:00"
+        },
+        "terminal": "1",
+        "gate": "Y02",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 3261",
+      "callSign": "EZY61HN",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-EZRT",
+        "modeS": "4074B2",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIPZ",
+          "iata": "VCE",
+          "name": "Venice",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:25Z",
+          "local": "2026-03-13 14:25+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:10Z",
+          "local": "2026-03-13 16:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:52Z",
+          "local": "2026-03-13 15:52+01:00"
+        },
+        "terminal": "1",
+        "gate": "A30",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5058",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IJD",
+        "modeS": "44015A",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:05Z",
+          "local": "2026-03-13 15:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:08Z",
+          "local": "2026-03-13 15:08+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "351-372",
+        "gate": "F21",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:20Z",
+          "local": "2026-03-13 16:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:03Z",
+          "local": "2026-03-13 16:03+01:00"
+        },
+        "terminal": "1",
+        "gate": "B17",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 231",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LBX",
+        "modeS": "44065C",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFLL",
+          "iata": "LYS",
+          "name": "Lyon",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:25Z",
+          "local": "2026-03-13 14:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:30Z",
+          "local": "2026-03-13 14:30+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "22-28",
+        "gate": "D05",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:15Z",
+          "local": "2026-03-13 16:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:06Z",
+          "local": "2026-03-13 16:06+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5156",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IVC",
+        "modeS": "440031",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDL",
+          "iata": "DUS",
+          "name": "D\u00fcsseldorf",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:00Z",
+          "local": "2026-03-13 15:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:06Z",
+          "local": "2026-03-13 15:06+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 14:18Z",
+          "local": "2026-03-13 15:18+01:00"
+        },
+        "terminal": "B",
+        "checkInDesk": "151,151",
+        "gate": "A25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:10Z",
+          "local": "2026-03-13 16:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:08Z",
+          "local": "2026-03-13 16:08+01:00"
+        },
+        "terminal": "1",
+        "gate": "A37",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8043",
+      "callSign": "EWG78J",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEEE",
+        "modeS": "3C54A5",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLC",
+          "iata": "LCY",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:40Z",
+          "local": "2026-03-13 13:40+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:40Z",
+          "local": "2026-03-13 13:40+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:52Z",
+          "local": "2026-03-13 13:52+00:00"
+        },
+        "gate": "3",
+        "runway": "27",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:20Z",
+          "local": "2026-03-13 16:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:11Z",
+          "local": "2026-03-13 16:11+01:00"
+        },
+        "terminal": "1",
+        "gate": "X01",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BA 8493",
+      "callSign": "CFE93AU",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-LCAC",
+        "modeS": "40799B",
+        "model": "Embraer 190"
+      },
+      "airline": {
+        "name": "British",
+        "iata": "BA",
+        "icao": "BAW"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LATI",
+          "iata": "TIA",
+          "name": "Tirana",
+          "countryCode": "al",
+          "timeZone": "Europe/Tirane"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:00Z",
+          "local": "2026-03-13 14:00+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:25Z",
+          "local": "2026-03-13 16:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:14Z",
+          "local": "2026-03-13 16:14+01:00"
+        },
+        "terminal": "1",
+        "gate": "N01",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W4 5105",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LXB",
+        "modeS": "471F63",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Aero Services Executive",
+        "iata": "W4",
+        "icao": "WMT"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEPA",
+          "iata": "PMI",
+          "name": "Palma De Mallorca",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:50Z",
+          "local": "2026-03-13 13:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:45Z",
+          "local": "2026-03-13 13:45+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 12:58Z",
+          "local": "2026-03-13 13:58+01:00"
+        },
+        "terminal": "N",
+        "checkInDesk": "211-218",
+        "gate": "C40",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:30Z",
+          "local": "2026-03-13 16:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:29Z",
+          "local": "2026-03-13 16:29+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:28Z",
+          "local": "2026-03-13 16:28+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C2",
+        "runway": "25R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 106",
+      "callSign": "RYR21AG",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-LOB",
+        "modeS": "4D22BE",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:30Z",
+          "local": "2026-03-13 15:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:30Z",
+          "local": "2026-03-13 15:30+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 14:45Z",
+          "local": "2026-03-13 15:45+01:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:40Z",
+          "local": "2026-03-13 16:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:31Z",
+          "local": "2026-03-13 16:31+01:00"
+        },
+        "terminal": "1",
+        "gate": "B10",
+        "baggageBelt": "B3",
+        "runway": "25R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 1942",
+      "callSign": "DLH6T",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIDM",
+        "modeS": "3C648D",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIPH",
+          "iata": "TSF",
+          "name": "Treviso",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:00Z",
+          "local": "2026-03-13 15:00+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:32Z",
+          "local": "2026-03-13 16:32+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z34",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 9165",
+      "callSign": "RYR70GF",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-VVH",
+        "modeS": "4D244C",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LICJ",
+          "iata": "PMO",
+          "name": "Palermo",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:05Z",
+          "local": "2026-03-13 14:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:26Z",
+          "local": "2026-03-13 14:26+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:26Z",
+          "local": "2026-03-13 14:26+01:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:40Z",
+          "local": "2026-03-13 16:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z32",
+        "baggageBelt": "C1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 3361",
+      "callSign": "RYR96ZJ",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-IGK",
+        "modeS": "4CADBD",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "GCTS",
+          "iata": "TFS",
+          "name": "Tenerife Island",
+          "countryCode": "es",
+          "timeZone": "Atlantic/Canary"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 10:45Z",
+          "local": "2026-03-13 10:45+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 10:45Z",
+          "local": "2026-03-13 10:45+00:00"
+        },
+        "terminal": "B",
+        "checkInDesk": "73-74",
+        "gate": "B27",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:45Z",
+          "local": "2026-03-13 16:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:39Z",
+          "local": "2026-03-13 16:39+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SR 3189",
+      "callSign": "SDR38DX",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ASGK",
+        "modeS": "3C0893",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "SundAir",
+        "iata": "SR",
+        "icao": "SDR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:10Z",
+          "local": "2026-03-13 15:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:25Z",
+          "local": "2026-03-13 15:25+01:00"
+        },
+        "terminal": "2F",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:55Z",
+          "local": "2026-03-13 16:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:42Z",
+          "local": "2026-03-13 16:42+01:00"
+        },
+        "terminal": "1",
+        "gate": "A17",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AF 1834",
+      "callSign": "AFR67RW",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "F-HPND",
+        "modeS": "39BDA3",
+        "model": "Airbus A220-300"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLL",
+          "iata": "LHR",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:55Z",
+          "local": "2026-03-13 13:55+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:26Z",
+          "local": "2026-03-13 14:26+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 14:26Z",
+          "local": "2026-03-13 14:26+00:00"
+        },
+        "terminal": "5",
+        "checkInDesk": "F",
+        "runway": "27L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 16:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:49Z",
+          "local": "2026-03-13 16:49+01:00"
+        },
+        "terminal": "1",
+        "gate": "X07",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BA 984",
+      "callSign": "BAW984G",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-EUPR",
+        "modeS": "4008B2",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "British",
+        "iata": "BA",
+        "icao": "BAW"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDK",
+          "iata": "CGN",
+          "name": "Cologne",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:45Z",
+          "local": "2026-03-13 15:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:45Z",
+          "local": "2026-03-13 15:45+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "107-118",
+        "gate": "C30",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:55Z",
+          "local": "2026-03-13 16:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:52Z",
+          "local": "2026-03-13 16:52+01:00"
+        },
+        "terminal": "1",
+        "gate": "B03",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 10",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ABGN",
+        "modeS": "3C48EE",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPO",
+          "iata": "ORY",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:30Z",
+          "local": "2026-03-13 15:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:32Z",
+          "local": "2026-03-13 15:32+01:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:15Z",
+          "local": "2026-03-13 17:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:54Z",
+          "local": "2026-03-13 16:54+01:00"
+        },
+        "terminal": "1",
+        "gate": "A20",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5270",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-ING",
+        "modeS": "440005",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:45Z",
+          "local": "2026-03-13 15:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:45Z",
+          "local": "2026-03-13 15:45+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:09Z",
+          "local": "2026-03-13 16:09+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "259-335",
+        "gate": "A11",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 16:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:57Z",
+          "local": "2026-03-13 16:57+01:00"
+        },
+        "terminal": "1",
+        "gate": "B07",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 190",
+      "callSign": "DLH9LC",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIRA",
+        "modeS": "3C6641",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LPPT",
+          "iata": "LIS",
+          "name": "Lisbon",
+          "countryCode": "pt",
+          "timeZone": "Europe/Lisbon"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 11:40Z",
+          "local": "2026-03-13 11:40+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:02Z",
+          "local": "2026-03-13 13:02+00:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 15:15Z",
+          "local": "2026-03-13 16:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:00Z",
+          "local": "2026-03-13 17:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "A36",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TP 532",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "CS-TNU",
+        "modeS": "4951D5",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEPA",
+          "iata": "PMI",
+          "name": "Palma De Mallorca",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:25Z",
+          "local": "2026-03-13 14:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:24Z",
+          "local": "2026-03-13 14:24+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 13:37Z",
+          "local": "2026-03-13 14:37+01:00"
+        },
+        "terminal": "N",
+        "checkInDesk": "304-309",
+        "gate": "C66",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:10Z",
+          "local": "2026-03-13 17:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:03Z",
+          "local": "2026-03-13 17:03+01:00"
+        },
+        "terminal": "1",
+        "gate": "A35",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 6892",
+      "callSign": "EWG8P",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-EUU",
+        "modeS": "4D240C",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EYVI",
+          "iata": "VNO",
+          "name": "Vilnius",
+          "countryCode": "lt",
+          "timeZone": "Europe/Vilnius"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:50Z",
+          "local": "2026-03-13 16:50+02:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:25Z",
+          "local": "2026-03-13 17:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:08Z",
+          "local": "2026-03-13 17:08+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z30",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1583",
+      "callSign": "RYR1583",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "SP-RKP",
+        "modeS": "48C12F",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDL",
+          "iata": "DUS",
+          "name": "D\u00fcsseldorf",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:10Z",
+          "local": "2026-03-13 16:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:10Z",
+          "local": "2026-03-13 16:10+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:20Z",
+          "local": "2026-03-13 16:20+01:00"
+        },
+        "terminal": "B",
+        "checkInDesk": "151,151",
+        "gate": "A63",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:20Z",
+          "local": "2026-03-13 17:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:11Z",
+          "local": "2026-03-13 17:11+01:00"
+        },
+        "terminal": "1",
+        "gate": "A32",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 9042",
+      "callSign": "EWG8KN",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AGWF",
+        "modeS": "3C5EE6",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGCC",
+          "iata": "MAN",
+          "name": "Manchester",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:15Z",
+          "local": "2026-03-13 14:15+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 14:36Z",
+          "local": "2026-03-13 14:36+00:00"
+        },
+        "terminal": "3",
+        "gate": "49",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:20Z",
+          "local": "2026-03-13 17:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:13Z",
+          "local": "2026-03-13 17:13+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z40",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1155",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QCE",
+        "modeS": "4D227A",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LGAV",
+          "iata": "ATH",
+          "name": "Athens",
+          "countryCode": "gr",
+          "timeZone": "Europe/Athens"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:35Z",
+          "local": "2026-03-13 15:35+02:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:48Z",
+          "local": "2026-03-13 15:48+02:00"
+        },
+        "terminal": "4",
+        "checkInDesk": "138-143",
+        "gate": "B15",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:30Z",
+          "local": "2026-03-13 17:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:15Z",
+          "local": "2026-03-13 17:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "A34",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "A3 822",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "SX-NAM",
+        "modeS": "46B82D",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Aegean",
+        "iata": "A3",
+        "icao": "AEE"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "name": "Unknown"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:24Z",
+          "local": "2026-03-13 17:24+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:24Z",
+          "local": "2026-03-13 17:24+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:24Z",
+          "local": "2026-03-13 17:24+01:00"
+        },
+        "runway": "25R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TOY 226",
+      "callSign": "TOY226",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-TRC",
+        "modeS": "4A5243",
+        "model": "Challenger 300"
+      },
+      "airline": {
+        "name": "TOY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "BKPR",
+          "iata": "PRN",
+          "name": "Prishtina",
+          "countryCode": "ks",
+          "timeZone": "Europe/Belgrade"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:30Z",
+          "local": "2026-03-13 15:30+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:26Z",
+          "local": "2026-03-13 17:26+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:26Z",
+          "local": "2026-03-13 17:26+01:00"
+        },
+        "terminal": "1",
+        "gate": "X03",
+        "baggageBelt": "B1",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5366",
+      "callSign": "EJU84CN",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LQP",
+        "modeS": "4405B6",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul",
+          "countryCode": "tr",
+          "timeZone": "Europe/Istanbul"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:45Z",
+          "local": "2026-03-13 17:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:31Z",
+          "local": "2026-03-13 17:31+01:00"
+        },
+        "terminal": "1",
+        "gate": "X01",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TK 1723",
+      "callSign": "THY1LE",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "TC-LPG",
+        "modeS": "4BB207",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Turkish",
+        "iata": "TK",
+        "icao": "THY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EPWA",
+          "iata": "WAW",
+          "name": "Warsaw",
+          "countryCode": "pl",
+          "timeZone": "Europe/Warsaw"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:47Z",
+          "local": "2026-03-13 16:47+01:00"
+        },
+        "terminal": "E-D",
+        "checkInDesk": "241-280",
+        "gate": "5",
+        "runway": "15",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:55Z",
+          "local": "2026-03-13 17:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:36Z",
+          "local": "2026-03-13 17:36+01:00"
+        },
+        "terminal": "1",
+        "gate": "A30",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LO 389",
+      "callSign": "LOT389",
+      "status": "Approaching",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "SP-LMG",
+        "modeS": "48AD86",
+        "model": "Embraer 190"
+      },
+      "airline": {
+        "name": "LOT - Polish",
+        "iata": "LO",
+        "icao": "LOT"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:25Z",
+          "local": "2026-03-13 16:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:20Z",
+          "local": "2026-03-13 16:20+01:00"
+        },
+        "checkInDesk": "1",
+        "gate": "A72",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:40Z",
+          "local": "2026-03-13 17:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "B17",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LX 970",
+      "callSign": "SWR23F",
+      "status": "Approaching",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HB-JCN",
+        "modeS": "4B1805",
+        "model": "Airbus A220-300"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EBBR",
+          "iata": "BRU",
+          "name": "Brussels",
+          "countryCode": "be",
+          "timeZone": "Europe/Brussels"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:20Z",
+          "local": "2026-03-13 16:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:48Z",
+          "local": "2026-03-13 16:48+01:00"
+        },
+        "checkInDesk": "05",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:45Z",
+          "local": "2026-03-13 17:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:42Z",
+          "local": "2026-03-13 17:42+01:00"
+        },
+        "terminal": "1",
+        "gate": "B06",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SN 2587",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OO-SSN",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "Brussels",
+        "iata": "SN",
+        "icao": "BEL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:45Z",
+          "local": "2026-03-13 16:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:48Z",
+          "local": "2026-03-13 16:48+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "351-372",
+        "gate": "F26",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:00Z",
+          "local": "2026-03-13 18:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:48Z",
+          "local": "2026-03-13 17:48+01:00"
+        },
+        "terminal": "1",
+        "gate": "B10",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 233",
+      "callSign": "AUA233",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LWE",
+        "modeS": "440821",
+        "model": "Embraer 195"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGKK",
+          "iata": "LGW",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:40Z",
+          "local": "2026-03-13 14:40+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:17Z",
+          "local": "2026-03-13 15:17+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:18Z",
+          "local": "2026-03-13 15:18+00:00"
+        },
+        "terminal": "N",
+        "runway": "26L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:35Z",
+          "local": "2026-03-13 17:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:56Z",
+          "local": "2026-03-13 17:56+01:00"
+        },
+        "terminal": "1",
+        "gate": "X02",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 8627",
+      "callSign": "EZY8627",
+      "status": "Approaching",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LQD",
+        "modeS": "4401E4",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:00Z",
+          "local": "2026-03-13 17:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:00Z",
+          "local": "2026-03-13 17:00+01:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:10Z",
+          "local": "2026-03-13 18:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:06Z",
+          "local": "2026-03-13 18:06+01:00"
+        },
+        "terminal": "1",
+        "gate": "B07",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 1948",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIEL",
+        "modeS": "3C64AC",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIME",
+          "iata": "BGY",
+          "name": "Bergamo",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 16:50+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 16:50+01:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:20Z",
+          "local": "2026-03-13 18:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:14Z",
+          "local": "2026-03-13 18:14+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z32",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 2679",
+      "callSign": "RYR50PA",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "SP-RNS",
+        "modeS": "48EA4E",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIPB",
+          "iata": "BZO",
+          "name": "Bolzano",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 16:35+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 18:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:14Z",
+          "local": "2026-03-13 18:14+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BQ 1950",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-EVA",
+        "modeS": "4D2329",
+        "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+      },
+      "airline": {
+        "name": "SkyAlps SRL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDK",
+          "iata": "CGN",
+          "name": "Cologne",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:55Z",
+          "local": "2026-03-13 16:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:55Z",
+          "local": "2026-03-13 16:55+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:11Z",
+          "local": "2026-03-13 17:11+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "107-118",
+        "gate": "C50",
+        "runway": "32R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:05Z",
+          "local": "2026-03-13 18:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:14Z",
+          "local": "2026-03-13 18:14+01:00"
+        },
+        "terminal": "1",
+        "gate": "A37",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 6",
+      "callSign": "EWG5M",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AENI",
+        "modeS": "3C55C9",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam",
+          "countryCode": "nl",
+          "timeZone": "Europe/Amsterdam"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:30Z",
+          "local": "2026-03-13 16:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:02Z",
+          "local": "2026-03-13 17:02+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "6-8",
+        "gate": "D63",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:40Z",
+          "local": "2026-03-13 17:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 18:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "A10",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 1781",
+      "status": "Delayed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXW",
+        "modeS": "484555",
+        "model": "Boeing 737"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EFHK",
+          "iata": "HEL",
+          "name": "Helsinki",
+          "countryCode": "fi",
+          "timeZone": "Europe/Helsinki"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:25Z",
+          "local": "2026-03-13 17:25+02:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:27Z",
+          "local": "2026-03-13 17:27+02:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "Area200",
+        "gate": "28",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:30Z",
+          "local": "2026-03-13 18:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:25Z",
+          "local": "2026-03-13 18:25+01:00"
+        },
+        "terminal": "1",
+        "gate": "A31",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AY 1435",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OH-LZT",
+        "modeS": "461FA9",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Finnair",
+        "iata": "AY",
+        "icao": "FIN"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGSS",
+          "iata": "STN",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:40Z",
+          "local": "2026-03-13 15:40+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 15:50+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:02Z",
+          "local": "2026-03-13 16:02+00:00"
+        },
+        "terminal": "1",
+        "gate": "32",
+        "runway": "22",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:30Z",
+          "local": "2026-03-13 18:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:30Z",
+          "local": "2026-03-13 18:30+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z44",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 2788",
+      "callSign": "RYR95TD",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-ILI",
+        "modeS": "4CAFF8",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "GCTS",
+          "iata": "TFS",
+          "name": "Tenerife Island",
+          "countryCode": "es",
+          "timeZone": "Atlantic/Canary"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:25Z",
+          "local": "2026-03-13 12:25+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:25Z",
+          "local": "2026-03-13 12:25+00:00"
+        },
+        "terminal": "C",
+        "checkInDesk": "221-226",
+        "gate": "B11",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:35Z",
+          "local": "2026-03-13 18:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:32Z",
+          "local": "2026-03-13 18:32+01:00"
+        },
+        "terminal": "1",
+        "gate": "A38",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5114",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IZJ",
+        "modeS": "440219",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "GCTS",
+          "iata": "TFS",
+          "name": "Tenerife Island",
+          "countryCode": "es",
+          "timeZone": "Atlantic/Canary"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:20Z",
+          "local": "2026-03-13 12:20+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 12:20Z",
+          "local": "2026-03-13 12:20+00:00"
+        },
+        "terminal": "B",
+        "checkInDesk": "75-76",
+        "gate": "B34",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:30Z",
+          "local": "2026-03-13 18:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:35Z",
+          "local": "2026-03-13 18:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "B20",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8291",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEWW",
+        "modeS": "3C56F7",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "DTTA",
+          "iata": "TUN",
+          "name": "Tunis",
+          "countryCode": "tn",
+          "timeZone": "Africa/Tunis"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:00Z",
+          "local": "2026-03-13 15:00+01:00"
+        },
+        "terminal": "M",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 16:45Z",
+          "local": "2026-03-13 17:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:40Z",
+          "local": "2026-03-13 18:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "X06",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BJ 232",
+      "callSign": "LBT232",
+      "status": "Delayed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "TS-INT",
+        "modeS": "02A1B3",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Nouvelair Tunisie",
+        "iata": "BJ",
+        "icao": "LBT"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGGD",
+          "iata": "BRS",
+          "name": "Bristol",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 15:50+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 15:50+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:59Z",
+          "local": "2026-03-13 15:59+00:00"
+        },
+        "runway": "27",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:41Z",
+          "local": "2026-03-13 18:41+01:00"
+        },
+        "terminal": "1",
+        "gate": "Y02",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 2933",
+      "callSign": "EZY81RK",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-UZMI",
+        "modeS": "4078EF",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWS",
+          "iata": "SZG",
+          "name": "Salzburg",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:35Z",
+          "local": "2026-03-13 17:35+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:45Z",
+          "local": "2026-03-13 18:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:42Z",
+          "local": "2026-03-13 18:42+01:00"
+        },
+        "terminal": "1",
+        "gate": "B03",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 4342",
+      "callSign": "EWG4342",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-EUX",
+        "modeS": "4D240F",
+        "model": "Airbus A320-200"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LTFJ",
+          "iata": "SAW",
+          "name": "Istanbul",
+          "countryCode": "tr",
+          "timeZone": "Europe/Istanbul"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:05Z",
+          "local": "2026-03-13 18:05+03:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:05Z",
+          "local": "2026-03-13 19:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:45Z",
+          "local": "2026-03-13 18:45+01:00"
+        },
+        "terminal": "1",
+        "gate": "X03",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "PC 985",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "TC-RFN",
+        "modeS": "4BC8CE",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Pegasus",
+        "iata": "PC",
+        "icao": "PGT"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFRS",
+          "iata": "NTE",
+          "name": "Nantes",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:45Z",
+          "local": "2026-03-13 16:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:00Z",
+          "local": "2026-03-13 17:00+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:00Z",
+          "local": "2026-03-13 17:00+01:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:00Z",
+          "local": "2026-03-13 19:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:48Z",
+          "local": "2026-03-13 18:48+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z30",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TO 4100",
+      "callSign": "TVF4100",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "F-HTVY",
+        "modeS": "39CEB8",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Transavia France",
+        "iata": "TO",
+        "icao": "TVF"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:25Z",
+          "local": "2026-03-13 17:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:25Z",
+          "local": "2026-03-13 17:25+01:00"
+        },
+        "checkInDesk": "1",
+        "gate": "A51",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "terminal": "1",
+        "gate": "A20",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LX 982",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HB-JVW",
+        "modeS": "4B19FC",
+        "model": "Embraer 195"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEMD",
+          "iata": "MAD",
+          "name": "Madrid",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:55Z",
+          "local": "2026-03-13 15:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:00Z",
+          "local": "2026-03-13 16:00+01:00"
+        },
+        "terminal": "4",
+        "checkInDesk": "850-853",
+        "gate": "H16",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:00Z",
+          "local": "2026-03-13 19:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:52Z",
+          "local": "2026-03-13 18:52+01:00"
+        },
+        "terminal": "1",
+        "gate": "A35",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "I2 1809",
+      "callSign": "IBS1809",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EC-JFH",
+        "modeS": "342104",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Iberia Express",
+        "iata": "I2",
+        "icao": "IBS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EVRA",
+          "iata": "RIX",
+          "name": "Riga",
+          "countryCode": "lv",
+          "timeZone": "Europe/Riga"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:10Z",
+          "local": "2026-03-13 18:10+02:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:10Z",
+          "local": "2026-03-13 18:10+02:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:19Z",
+          "local": "2026-03-13 18:19+02:00"
+        },
+        "terminal": "B",
+        "gate": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:55Z",
+          "local": "2026-03-13 18:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:53Z",
+          "local": "2026-03-13 18:53+01:00"
+        },
+        "terminal": "1",
+        "gate": "A34",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BT 213",
+      "callSign": "BTI6UN",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YL-ABD",
+        "modeS": "502D45",
+        "model": "Airbus A220-300"
+      },
+      "airline": {
+        "name": "airBaltic",
+        "iata": "BT",
+        "icao": "BTI"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:40Z",
+          "local": "2026-03-13 17:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:40Z",
+          "local": "2026-03-13 17:40+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "351-372",
+        "gate": "F25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:55Z",
+          "local": "2026-03-13 18:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:55Z",
+          "local": "2026-03-13 18:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "A36",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 235",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LZE",
+        "modeS": "440604",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EIDW",
+          "iata": "DUB",
+          "name": "Dublin",
+          "countryCode": "ie",
+          "timeZone": "Europe/Dublin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 15:35+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:35Z",
+          "local": "2026-03-13 15:35+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:05Z",
+          "local": "2026-03-13 16:05+00:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "29-56",
+        "gate": "407",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:59Z",
+          "local": "2026-03-13 18:59+01:00"
+        },
+        "terminal": "1",
+        "gate": "X07",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EI 336",
+      "callSign": "EIN33T",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-DEI",
+        "modeS": "4CA281",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Aer Lingus",
+        "iata": "EI",
+        "icao": "EIN"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:20Z",
+          "local": "2026-03-13 17:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:20Z",
+          "local": "2026-03-13 17:20+01:00"
+        },
+        "terminal": "2G",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:05Z",
+          "local": "2026-03-13 19:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:04Z",
+          "local": "2026-03-13 19:04+01:00"
+        },
+        "terminal": "1",
+        "gate": "A17",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AF 1534",
+      "callSign": "AFR1534",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "F-HBLY",
+        "modeS": "398578",
+        "model": "Embraer 190"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "GCLP",
+          "iata": "LPA",
+          "name": "Gran Canaria Island",
+          "countryCode": "es",
+          "timeZone": "Atlantic/Canary"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 12:10Z",
+          "local": "2026-03-13 12:10+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 13:10Z",
+          "local": "2026-03-13 13:10+00:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "304-309",
+        "gate": "C06",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 18:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:04Z",
+          "local": "2026-03-13 19:04+01:00"
+        },
+        "terminal": "1",
+        "gate": "A32",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8187",
+      "status": "Delayed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ABHG",
+        "modeS": "3C4907",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "HEGN",
+          "iata": "HRG",
+          "name": "Hurghada",
+          "countryCode": "eg",
+          "timeZone": "Africa/Cairo"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 13:15Z",
+          "local": "2026-03-13 15:15+02:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:20Z",
+          "local": "2026-03-13 19:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:07Z",
+          "local": "2026-03-13 19:07+01:00"
+        },
+        "terminal": "1",
+        "gate": "N01",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "DE 433",
+      "callSign": "CFG433",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "ES-MBF",
+        "modeS": "511189",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Condor",
+        "iata": "DE",
+        "icao": "CFG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LPPT",
+          "iata": "LIS",
+          "name": "Lisbon",
+          "countryCode": "pt",
+          "timeZone": "Europe/Lisbon"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:00Z",
+          "local": "2026-03-13 15:00+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:06Z",
+          "local": "2026-03-13 15:06+00:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:45Z",
+          "local": "2026-03-13 19:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:08Z",
+          "local": "2026-03-13 19:08+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z32",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1143",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-HMV",
+        "modeS": "4CAD3D",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDR",
+          "iata": "SCN",
+          "name": "Saarbr\u00fccken",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:40Z",
+          "local": "2026-03-13 17:40+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z34",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "DX 125",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 42-300"
+      },
+      "airline": {
+        "name": "Danish Air",
+        "iata": "DX",
+        "icao": "DTR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEAL",
+          "iata": "ALC",
+          "name": "Alicante",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 14:35Z",
+          "local": "2026-03-13 15:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:11Z",
+          "local": "2026-03-13 16:11+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 15:30Z",
+          "local": "2026-03-13 16:30+01:00"
+        },
+        "terminal": "N",
+        "checkInDesk": "10-16",
+        "gate": "C39",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 17:45Z",
+          "local": "2026-03-13 18:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:19Z",
+          "local": "2026-03-13 19:19+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 258",
+      "callSign": "RYR94HL",
+      "status": "Delayed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QDY",
+        "modeS": "4D224E",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EIDW",
+          "iata": "DUB",
+          "name": "Dublin",
+          "countryCode": "ie",
+          "timeZone": "Europe/Dublin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:45Z",
+          "local": "2026-03-13 15:45+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:05Z",
+          "local": "2026-03-13 16:05+00:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:25Z",
+          "local": "2026-03-13 16:25+00:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "1204-1319",
+        "gate": "204",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:10Z",
+          "local": "2026-03-13 19:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:21Z",
+          "local": "2026-03-13 19:21+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z40",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 5572",
+      "callSign": "RYR44LG",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QEE",
+        "modeS": "4D225A",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 15:50Z",
+          "local": "2026-03-13 16:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 15:43Z",
+          "local": "2026-03-13 16:43+01:00"
+        },
+        "runwayTime": {
+          "utc": "2026-03-13 16:05Z",
+          "local": "2026-03-13 17:05+01:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "C28-C33",
+        "gate": "R10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:32Z",
+          "local": "2026-03-13 19:32+01:00"
+        },
+        "terminal": "1",
+        "gate": "A37",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 7173",
+      "callSign": "EJU95GD",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LKM",
+        "modeS": "440625",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LDZA",
+          "iata": "ZAG",
+          "name": "Zagreb",
+          "countryCode": "hr",
+          "timeZone": "Europe/Zagreb"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:05Z",
+          "local": "2026-03-13 18:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:05Z",
+          "local": "2026-03-13 18:05+01:00"
+        },
+        "checkInDesk": "B01-B02",
+        "gate": "G10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "A31",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OU 4408",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9A-CAM",
+        "modeS": "501C43",
+        "model": "Airbus A220-300"
+      },
+      "airline": {
+        "name": "Croatia",
+        "iata": "OU",
+        "icao": "CTN"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPO",
+          "iata": "ORY",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "A30",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 4875",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-ICM",
+        "modeS": "440452",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "ENGM",
+          "iata": "OSL",
+          "name": "Oslo",
+          "countryCode": "no",
+          "timeZone": "Europe/Oslo"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:00Z",
+          "local": "2026-03-13 18:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:00Z",
+          "local": "2026-03-13 18:00+01:00"
+        },
+        "checkInDesk": "1-3",
+        "gate": "D3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "DY 1108",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800 (winglets)"
+      },
+      "airline": {
+        "name": "Norwegian Air Shuttle",
+        "iata": "DY",
+        "icao": "NOZ"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSGG",
+          "iata": "GVA",
+          "name": "Geneva",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:50Z",
+          "local": "2026-03-13 17:50+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "93-106",
+        "gate": "D25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "B07",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LX 1090",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A220-100"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDNY",
+          "iata": "FDH",
+          "name": "Friedrichshafen",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:40Z",
+          "local": "2026-03-13 19:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:40Z",
+          "local": "2026-03-13 19:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "S03",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "ATV 503",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+      },
+      "airline": {
+        "name": "Avanti Air",
+        "icao": "ATV"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDNY",
+          "iata": "FDH",
+          "name": "Friedrichshafen",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:10Z",
+          "local": "2026-03-13 18:10+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:40Z",
+          "local": "2026-03-13 19:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:40Z",
+          "local": "2026-03-13 19:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "S03",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W2 1613",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+      },
+      "airline": {
+        "name": "FlexFlight",
+        "iata": "W2",
+        "icao": "FXT"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:45Z",
+          "local": "2026-03-13 18:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:45Z",
+          "local": "2026-03-13 18:45+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "259-335",
+        "gate": "A13",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 18:50Z",
+          "local": "2026-03-13 19:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:50Z",
+          "local": "2026-03-13 19:50+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 196",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIQT",
+        "modeS": "3C6634",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LYBE",
+          "iata": "BEG",
+          "name": "Belgrade",
+          "countryCode": "rs",
+          "timeZone": "Europe/Belgrade"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:05Z",
+          "local": "2026-03-13 18:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:05Z",
+          "local": "2026-03-13 18:05+01:00"
+        },
+        "terminal": "2",
+        "gate": "C10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 20:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 20:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "X10",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "JU 356",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YU-APD",
+        "modeS": "4C01E3",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "Air Serbia",
+        "iata": "JU",
+        "icao": "ASL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLL",
+          "iata": "LHR",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:00Z",
+          "local": "2026-03-13 17:00+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:00Z",
+          "local": "2026-03-13 17:00+00:00"
+        },
+        "terminal": "5",
+        "checkInDesk": "F",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 20:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 20:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "X02",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BA 990",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320-200 (sharklets)"
+      },
+      "airline": {
+        "name": "British",
+        "iata": "BA",
+        "icao": "BAW"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPO",
+          "iata": "ORY",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 18:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 18:15+01:00"
+        },
+        "terminal": "3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:05Z",
+          "local": "2026-03-13 20:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:05Z",
+          "local": "2026-03-13 20:05+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z30",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TO 4068",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "F-HXSA",
+        "modeS": "39DE40",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Transavia France",
+        "iata": "TO",
+        "icao": "TVF"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EBBR",
+          "iata": "BRU",
+          "name": "Brussels",
+          "countryCode": "be",
+          "timeZone": "Europe/Brussels"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "checkInDesk": "05",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:15Z",
+          "local": "2026-03-13 20:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:15Z",
+          "local": "2026-03-13 20:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "B10",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SN 2589",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320-200"
+      },
+      "airline": {
+        "name": "Brussels",
+        "iata": "SN",
+        "icao": "BEL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:05Z",
+          "local": "2026-03-13 19:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:05Z",
+          "local": "2026-03-13 19:05+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "351-372",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "terminal": "1",
+        "gate": "B20",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 237",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LBM",
+        "modeS": "440669",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGBB",
+          "iata": "BHX",
+          "name": "Birmingham",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:25Z",
+          "local": "2026-03-13 17:25+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:25Z",
+          "local": "2026-03-13 17:25+00:00"
+        },
+        "gate": "56",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "terminal": "1",
+        "gate": "X07",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 6625",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-EZOA",
+        "modeS": "406C71",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDS",
+          "iata": "STR",
+          "name": "Stuttgart",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "320-329",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:25Z",
+          "local": "2026-03-13 20:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:25Z",
+          "local": "2026-03-13 20:25+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8007",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEEE",
+        "modeS": "3C54A5",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "ELLX",
+          "iata": "LUX",
+          "name": "Luxembourg",
+          "countryCode": "lu",
+          "timeZone": "Europe/Luxembourg"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:00Z",
+          "local": "2026-03-13 19:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:00Z",
+          "local": "2026-03-13 19:00+01:00"
+        },
+        "terminal": "A",
+        "gate": "B01",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:30Z",
+          "local": "2026-03-13 20:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:30Z",
+          "local": "2026-03-13 20:30+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LG 9473",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "LX-LGN",
+        "modeS": "4D00D4",
+        "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+      },
+      "airline": {
+        "name": "Luxair",
+        "iata": "LG",
+        "icao": "LGL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFSB",
+          "iata": "BSL",
+          "name": "B\u00e2le/Mulhouse",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:00Z",
+          "local": "2026-03-13 19:00+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:30Z",
+          "local": "2026-03-13 20:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:30Z",
+          "local": "2026-03-13 20:30+01:00"
+        },
+        "terminal": "1",
+        "gate": "A35",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 1187",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HB-JZX",
+        "modeS": "4B1A65",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEMG",
+          "iata": "AGP",
+          "name": "M\u00e1laga",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:10Z",
+          "local": "2026-03-13 17:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:10Z",
+          "local": "2026-03-13 17:10+01:00"
+        },
+        "terminal": "PAX",
+        "checkInDesk": "330-331",
+        "gate": "D63",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8537",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AENC",
+        "modeS": "3C55C3",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGPH",
+          "iata": "EDI",
+          "name": "Edinburgh",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:20Z",
+          "local": "2026-03-13 17:20+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:20Z",
+          "local": "2026-03-13 17:20+00:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z42",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 7784",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-IHM",
+        "modeS": "4CADF7",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:55Z",
+          "local": "2026-03-13 17:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:55Z",
+          "local": "2026-03-13 17:55+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "501-514",
+        "gate": "A",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:35Z",
+          "local": "2026-03-13 20:35+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z34",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "VY 1886",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Vueling",
+        "iata": "VY",
+        "icao": "VLG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEPA",
+          "iata": "PMI",
+          "name": "Palma De Mallorca",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 16:55Z",
+          "local": "2026-03-13 17:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 16:55Z",
+          "local": "2026-03-13 17:55+01:00"
+        },
+        "terminal": "N",
+        "checkInDesk": "224-225",
+        "gate": "C",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:40Z",
+          "local": "2026-03-13 20:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:40Z",
+          "local": "2026-03-13 20:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "A06",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5122",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IDS",
+        "modeS": "440DA5",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGGW",
+          "iata": "LTN",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 17:50+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 17:50+00:00"
+        },
+        "checkInDesk": "44-61",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:40Z",
+          "local": "2026-03-13 20:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:40Z",
+          "local": "2026-03-13 20:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "X01",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 2603",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-UZLX",
+        "modeS": "408053",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDK",
+          "iata": "CGN",
+          "name": "Cologne",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:35Z",
+          "local": "2026-03-13 19:35+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "107-118",
+        "gate": "C40",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 19:45Z",
+          "local": "2026-03-13 20:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:45Z",
+          "local": "2026-03-13 20:45+01:00"
+        },
+        "terminal": "1",
+        "gate": "B02",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-EWG",
+        "modeS": "4D2087",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "ESSA",
+          "iata": "ARN",
+          "name": "Stockholm",
+          "countryCode": "se",
+          "timeZone": "Europe/Stockholm"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:25Z",
+          "local": "2026-03-13 19:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:25Z",
+          "local": "2026-03-13 19:25+01:00"
+        },
+        "terminal": "5",
+        "checkInDesk": "71-84",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "B07",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SK 2679",
+      "callSign": "SAS95W",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-SCB",
+        "modeS": "4CAD92",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "SAS",
+        "iata": "SK",
+        "icao": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIMC",
+          "iata": "MXP",
+          "name": "Milan",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "09",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z32",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 161",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-IGK",
+        "modeS": "4CADBD",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EKCH",
+          "iata": "CPH",
+          "name": "Copenhagen",
+          "countryCode": "dk",
+          "timeZone": "Europe/Copenhagen"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "B03",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SK 1679",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "SAS",
+        "iata": "SK",
+        "icao": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLC",
+          "iata": "LCY",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:30Z",
+          "local": "2026-03-13 18:30+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:30Z",
+          "local": "2026-03-13 18:30+00:00"
+        },
+        "gate": "9",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:10Z",
+          "local": "2026-03-13 21:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:10Z",
+          "local": "2026-03-13 21:10+01:00"
+        },
+        "terminal": "1",
+        "gate": "N01",
+        "baggageBelt": "B4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BA 8495",
+      "callSign": "CFE8495",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "G-LCAC",
+        "modeS": "40799B",
+        "model": "Embraer 190"
+      },
+      "airline": {
+        "name": "British",
+        "iata": "BA",
+        "icao": "BAW"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:30Z",
+          "local": "2026-03-13 19:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:30Z",
+          "local": "2026-03-13 19:30+01:00"
+        },
+        "terminal": "2D",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:15Z",
+          "local": "2026-03-13 21:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:15Z",
+          "local": "2026-03-13 21:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "A31",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 4633",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-ICF",
+        "modeS": "440019",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:15Z",
+          "local": "2026-03-13 20:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:15Z",
+          "local": "2026-03-13 20:15+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "759-782",
+        "gate": "A34",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:20Z",
+          "local": "2026-03-13 21:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:20Z",
+          "local": "2026-03-13 21:20+01:00"
+        },
+        "terminal": "1",
+        "gate": "A30",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "DE 4095",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ASGE",
+        "modeS": "3C088D",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Condor",
+        "iata": "DE",
+        "icao": "CFG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LHBP",
+          "iata": "BUD",
+          "name": "Budapest",
+          "countryCode": "hu",
+          "timeZone": "Europe/Budapest"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:55Z",
+          "local": "2026-03-13 19:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:55Z",
+          "local": "2026-03-13 19:55+01:00"
+        },
+        "terminal": "2B",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:25Z",
+          "local": "2026-03-13 21:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:25Z",
+          "local": "2026-03-13 21:25+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 197",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "SP-RNG",
+        "modeS": "48C1A6",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EFHK",
+          "iata": "HEL",
+          "name": "Helsinki",
+          "countryCode": "fi",
+          "timeZone": "Europe/Helsinki"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:25Z",
+          "local": "2026-03-13 20:25+02:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:25Z",
+          "local": "2026-03-13 20:25+02:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "416-417",
+        "gate": "17",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:30Z",
+          "local": "2026-03-13 21:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:30Z",
+          "local": "2026-03-13 21:30+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8231",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEWT",
+        "modeS": "3C56F4",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul",
+          "countryCode": "tr",
+          "timeZone": "Europe/Istanbul"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:30Z",
+          "local": "2026-03-13 21:30+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:30Z",
+          "local": "2026-03-13 21:30+01:00"
+        },
+        "terminal": "1",
+        "gate": "X02",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TK 1727",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "TC-LTA",
+        "modeS": "4BB281",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "Turkish",
+        "iata": "TK",
+        "icao": "THY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLL",
+          "iata": "LHR",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:45Z",
+          "local": "2026-03-13 18:45+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:45Z",
+          "local": "2026-03-13 18:45+00:00"
+        },
+        "terminal": "5",
+        "checkInDesk": "D",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:45Z",
+          "local": "2026-03-13 21:45+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:45Z",
+          "local": "2026-03-13 21:45+01:00"
+        },
+        "terminal": "1",
+        "gate": "X03",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "BA 992",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "British",
+        "iata": "BA",
+        "icao": "BAW"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGSS",
+          "iata": "STN",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 19:00+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 19:00+00:00"
+        },
+        "terminal": "1",
+        "gate": "30",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:50Z",
+          "local": "2026-03-13 21:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:50Z",
+          "local": "2026-03-13 21:50+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z40",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 147",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-DCK",
+        "modeS": "4CA225",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEMG",
+          "iata": "AGP",
+          "name": "M\u00e1laga",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:25Z",
+          "local": "2026-03-13 18:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:25Z",
+          "local": "2026-03-13 18:25+01:00"
+        },
+        "terminal": "PAX",
+        "checkInDesk": "257-260",
+        "gate": "D",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 20:55Z",
+          "local": "2026-03-13 21:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:55Z",
+          "local": "2026-03-13 21:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5106",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-ISH",
+        "modeS": "440C6F",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDK",
+          "iata": "CGN",
+          "name": "Cologne",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:50Z",
+          "local": "2026-03-13 20:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:50Z",
+          "local": "2026-03-13 20:50+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "107-118",
+        "gate": "C30",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8071",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AEWW",
+        "modeS": "3C56F7",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:20Z",
+          "local": "2026-03-13 20:20+01:00"
+        },
+        "checkInDesk": "2(5)",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "A34",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8763",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ABNH",
+        "modeS": "3C49C8",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:15Z",
+          "local": "2026-03-13 19:15+01:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "B59-B66",
+        "gate": "S",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z34",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 149",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-HGP",
+        "modeS": "4CAC54",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDL",
+          "iata": "DUS",
+          "name": "D\u00fcsseldorf",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:50Z",
+          "local": "2026-03-13 20:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:50Z",
+          "local": "2026-03-13 20:50+01:00"
+        },
+        "terminal": "B",
+        "checkInDesk": "151,151",
+        "gate": "A25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:00Z",
+          "local": "2026-03-13 22:00+01:00"
+        },
+        "terminal": "1",
+        "gate": "A35",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "EW 8047",
+      "callSign": "EWG10X",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AENI",
+        "modeS": "3C55C9",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Eurowings",
+        "iata": "EW",
+        "icao": "EWG"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIBD",
+          "iata": "BRI",
+          "name": "Bari",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:55Z",
+          "local": "2026-03-13 19:55+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:05Z",
+          "local": "2026-03-13 22:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:05Z",
+          "local": "2026-03-13 22:05+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z30",
+        "baggageBelt": "C1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 3310",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-EVP",
+        "modeS": "4CA9ED",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam",
+          "countryCode": "nl",
+          "timeZone": "Europe/Amsterdam"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "6-8",
+        "gate": "D78",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "A07",
+        "baggageBelt": "A3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 1785",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXM",
+        "modeS": "484165",
+        "model": "Boeing 737-700 (winglets)"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna",
+          "countryCode": "at",
+          "timeZone": "Europe/Vienna"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 21:00+01:00"
+        },
+        "terminal": "3",
+        "checkInDesk": "351-372",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "B10",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 239",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LXD",
+        "modeS": "44029F",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEZL",
+          "iata": "SVQ",
+          "name": "Seville",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:50Z",
+          "local": "2026-03-13 18:50+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "M01-M02",
+        "gate": "A",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5124",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IDU",
+        "modeS": "440DAF",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRF",
+          "iata": "FCO",
+          "name": "Rome",
+          "countryCode": "it",
+          "timeZone": "Europe/Rome"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:05Z",
+          "local": "2026-03-13 20:05+01:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:15Z",
+          "local": "2026-03-13 22:15+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z29",
+        "baggageBelt": "C2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 135",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-IFW",
+        "modeS": "4CADB7",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "checkInDesk": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:20Z",
+          "local": "2026-03-13 22:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:20Z",
+          "local": "2026-03-13 22:20+01:00"
+        },
+        "terminal": "1",
+        "gate": "B07",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LX 962",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HB-ION",
+        "modeS": "4B1699",
+        "model": "Airbus A321-100"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "countryCode": "de",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:15Z",
+          "local": "2026-03-13 21:15+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:15Z",
+          "local": "2026-03-13 21:15+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "259-335",
+        "gate": "A60",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:20Z",
+          "local": "2026-03-13 22:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:20Z",
+          "local": "2026-03-13 22:20+01:00"
+        },
+        "terminal": "1",
+        "gate": "B20",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 202",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AISX",
+        "modeS": "3C6678",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EBBR",
+          "iata": "BRU",
+          "name": "Brussels",
+          "countryCode": "be",
+          "timeZone": "Europe/Brussels"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "checkInDesk": "05",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:25Z",
+          "local": "2026-03-13 22:25+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:25Z",
+          "local": "2026-03-13 22:25+01:00"
+        },
+        "terminal": "1",
+        "gate": "B03",
+        "baggageBelt": "B2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SN 2591",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OO-SBD",
+        "modeS": "44CC44",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Brussels",
+        "iata": "SN",
+        "icao": "BEL"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LPPT",
+          "iata": "LIS",
+          "name": "Lisbon",
+          "countryCode": "pt",
+          "timeZone": "Europe/Lisbon"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:55Z",
+          "local": "2026-03-13 17:55+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:55Z",
+          "local": "2026-03-13 17:55+00:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:35Z",
+          "local": "2026-03-13 22:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:35Z",
+          "local": "2026-03-13 22:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "A10",
+        "baggageBelt": "A4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TP 534",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "CS-TNK",
+        "modeS": "4951CB",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSGG",
+          "iata": "GVA",
+          "name": "Geneva",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "1-17",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:35Z",
+          "local": "2026-03-13 22:35+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:35Z",
+          "local": "2026-03-13 22:35+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5186",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LQP",
+        "modeS": "4405B6",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "terminal": "2F",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:40Z",
+          "local": "2026-03-13 22:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:40Z",
+          "local": "2026-03-13 22:40+01:00"
+        },
+        "terminal": "1",
+        "gate": "B02",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AF 1134",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A220-300"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "name": "Munich"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:40Z",
+          "local": "2026-03-13 22:40+01:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "LH 1966",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LBSF",
+          "iata": "SOF",
+          "name": "Sofia",
+          "countryCode": "bg",
+          "timeZone": "Europe/Sofia"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:25Z",
+          "local": "2026-03-13 21:25+02:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:40Z",
+          "local": "2026-03-13 22:40+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:40Z",
+          "local": "2026-03-13 22:40+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z36",
+        "baggageBelt": "C3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1149",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-VVH",
+        "modeS": "4D244C",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFBD",
+          "iata": "BOD",
+          "name": "Bordeaux/M\u00e9rignac",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:25Z",
+          "local": "2026-03-13 20:25+01:00"
+        },
+        "terminal": "L",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:50Z",
+          "local": "2026-03-13 22:50+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:50Z",
+          "local": "2026-03-13 22:50+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5266",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IJY",
+        "modeS": "4402AC",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFMN",
+          "iata": "NCE",
+          "name": "Nice",
+          "countryCode": "fr",
+          "timeZone": "Europe/Paris"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:55Z",
+          "local": "2026-03-13 20:55+01:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "S01",
+        "baggageBelt": "B1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5146",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LQD",
+        "modeS": "4401E4",
+        "model": "Airbus A319"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LPMA",
+          "iata": "FNC",
+          "name": "Funchal",
+          "countryCode": "pt",
+          "timeZone": "Atlantic/Madeira"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 17:15+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 17:15Z",
+          "local": "2026-03-13 17:15+00:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "A01",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5334",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IUA",
+        "modeS": "440198",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEVC",
+          "iata": "VLC",
+          "name": "Valencia",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 18:55Z",
+          "local": "2026-03-13 19:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 18:55Z",
+          "local": "2026-03-13 19:55+01:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "23-24",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "A30",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5104",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IDT",
+        "modeS": "4400DC",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSZH",
+          "iata": "ZRH",
+          "name": "Zurich",
+          "countryCode": "ch",
+          "timeZone": "Europe/Zurich"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:20Z",
+          "local": "2026-03-13 21:20+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:20Z",
+          "local": "2026-03-13 21:20+01:00"
+        },
+        "checkInDesk": "3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "A31",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 5188",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-IZJ",
+        "modeS": "440219",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGKK",
+          "iata": "LGW",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:00Z",
+          "local": "2026-03-13 20:00+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:00Z",
+          "local": "2026-03-13 19:00+00:00"
+        },
+        "terminal": "N",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 21:55Z",
+          "local": "2026-03-13 22:55+01:00"
+        },
+        "terminal": "1",
+        "gate": "X06",
+        "baggageBelt": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "U2 8631",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-ING",
+        "modeS": "440005",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "easyJet",
+        "iata": "U2",
+        "icao": "EZY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGSS",
+          "iata": "STN",
+          "name": "London",
+          "countryCode": "gb",
+          "timeZone": "Europe/London"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 20:10Z",
+          "local": "2026-03-13 20:10+00:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 20:10Z",
+          "local": "2026-03-13 20:10+00:00"
+        },
+        "terminal": "1",
+        "gate": "48",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 22:00Z",
+          "local": "2026-03-13 23:00+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 22:00Z",
+          "local": "2026-03-13 23:00+01:00"
+        },
+        "terminal": "2",
+        "gate": "Z43",
+        "baggageBelt": "C1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 2803",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-ILI",
+        "modeS": "4CAFF8",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEMD",
+          "iata": "MAD",
+          "name": "Madrid",
+          "countryCode": "es",
+          "timeZone": "Europe/Madrid"
+        },
+        "scheduledTime": {
+          "utc": "2026-03-13 19:05Z",
+          "local": "2026-03-13 20:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 19:05Z",
+          "local": "2026-03-13 20:05+01:00"
+        },
+        "terminal": "4",
+        "checkInDesk": "850-853",
+        "gate": "H",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2026-03-13 22:10Z",
+          "local": "2026-03-13 23:10+01:00"
+        },
+        "revisedTime": {
+          "utc": "2026-03-13 22:10Z",
+          "local": "2026-03-13 23:10+01:00"
+        },
+        "terminal": "1",
+        "gate": "A32",
+        "baggageBelt": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "I2 1813",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Iberia Express",
+        "iata": "I2",
+        "icao": "IBS"
+      }
+    }
+  ],
+  "_query": {
+    "airport_code": "BER",
+    "code_type": "iata",
+    "from_datetime": "2026-03-13T14:50",
+    "to_datetime": "2026-03-14T02:50",
+    "withLeg": "true",
+    "direction": "Arrival",
+    "withCancelled": "false",
+    "withCodeshared": "false",
+    "withCargo": "false",
+    "withPrivate": "false",
+    "withLocation": "false",
+    "iata": "BER",
+    "airport_name": "Berlin Brandenburg",
+    "airport_lookup_code": "BER",
+    "airport_lookup_code_type": "iata",
+    "fetch_source": "api"
+  }
+}
